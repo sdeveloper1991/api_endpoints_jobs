@@ -100,7 +100,7 @@ API for Create a job.
 >   -H 'Cache-Control: no-cache' \
 >   -H 'Content-Type: application/json' \
 >   -d '{
->         null,  for id it will generate automatically or put your’
+>         null, for id it will generate automatically or put your’
 >         "serviceId": null,=> or your serviceid
 >         "zipcodeId": null,=> or your zipcode
 > 	"title": "my job title",
